@@ -1,0 +1,179 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+    
+        {
+            "type": "Feature",
+            "id": 0,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41.244397, 69.288231
+                ]
+            },
+            "properties": {
+                "balloonContent": "Balloon content"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41.278967, 69.307571
+                ]
+            },
+            "properties": {
+                "balloonContent": "Balloon content"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41.287989, 69.282993
+                ]
+            },
+            "properties": {
+                "balloonContent": "Balloon content"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41.302986, 69.279336
+                ]
+            },
+            "properties": {
+                "balloonContent": "Balloon content"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41.350063, 69.218356
+                ]
+            },
+            "properties": {
+                "balloonContent": "Balloon content"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41.346284, 69.259353
+                ]
+            },
+            "properties": {
+                "balloonContent": "Balloon content"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 6,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41.321153, 69.254590
+                ]
+            },
+            "properties": {
+                "balloonContent": "Balloon content"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 7,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41.309199, 69.253593
+                ]
+            },
+            "properties": {
+                "balloonContent": "Balloon content"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 8,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41.311252, 69.240419
+                ]
+            },
+            "properties": {
+                "balloonContent": "Balloon content"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 9,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.844708,
+                    37.74887
+                ]
+            },
+            "properties": {
+                "balloonContent": "Balloon content"
+            }
+        },
+      
+   
+        {
+            "type": "Feature",
+            "id": 10,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.631546, 39.717380
+                ]
+            },
+            "properties": {
+                "balloonContent": "Balloon content"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 11,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.598515, 39.766784
+        
+                ]
+            },
+            "properties": {
+                "balloonContent": "Balloon content"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 12,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.550784, 39.831315
+                ]
+            },
+            "properties": {
+                "balloonContent": "Balloon content"
+            }
+        }
+    ]
+}

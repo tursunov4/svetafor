@@ -1,0 +1,109 @@
+.adduser__title {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 35px;
+    color: #353535;
+    margin-top: 50px;
+}
+
+.inputs__wrapper {
+ display: flex;
+ align-items: center;
+ justify-content: space-between;
+ margin-top: 50px;
+}
+
+.inputs {
+    display: block;
+    height: 58px;
+    width: 220px;
+    border: 1px solid #D9D9D9;
+    border-radius: 4px;
+    outline: none;
+    padding-left: 10px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: #353535;
+}
+
+
+.input__btn {
+    cursor: pointer;
+    width: 117px;
+    height: 51px;
+    background: #1CD02E;
+    outline: none;
+    border-radius: 8px;
+    border: none;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 21px;
+    color: #FFFFFF;
+}
+
+
+.select__dropdown{
+    margin-top: -10px;
+}
+
+#demo-multiple-checkbox-label{
+    margin-top: -10px;
+}
+
+
+
+.table-th,
+.table-td {
+    text-align: center;
+    padding: 8px;
+}
+
+.table-td {
+    border-bottom: 1px solid#D5D5D5;
+    font-size: 14px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: #353535;
+}
+
+.table-th {
+    font-size: 16px;
+    position: sticky;
+    color: #002A9D;
+    background: #D1DEFF;
+}
+tbody{
+    border-bottom: 1px solid #585858;
+}
+.inputs:focus{
+    border: 1px solid #245FFF;
+}
+.span__region{
+    margin: 5px;
+}
+.qushishruhsat{
+    display: flex;
+    align-items: center;
+}
+.qushishruhsat p{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: #353535;
+    margin: 5px;
+}
+.qushishruhsat input{
+    display: block;
+    width: 20px;
+    height: 40px;
+}

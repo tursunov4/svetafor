@@ -1,0 +1,189 @@
+.addadmin__wrapper>h2 {
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 35px;
+    color: #353535;
+    margin: 50px 0;
+}
+
+.addadmin__form {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+.addadmin__form label p {
+    margin-bottom: 15px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: #353535;
+}
+
+.addadmin__form label input {
+    display: block;
+    width: 56px;
+    padding: 15px;
+    width: 220px;
+    border: 1px solid #D9D9D9;
+    border-radius: 4px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: #353535;
+    outline: none;
+}
+
+.select__img2 {
+    transform: rotate(180deg);
+
+}
+
+.addadmin__form label .select {
+    padding-bottom: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    cursor: pointer;
+    position: relative;
+    width: 333px;
+    border-bottom: 1px solid #959595;
+}
+
+.addadmin__form label .select2 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    cursor: pointer;
+    position: relative;
+    width: 333px;
+    border-bottom: 1px solid #959595;
+}
+
+.addadmin__form button {
+    border: none;
+    outline: none;
+    cursor: pointer;
+    height: 45px;
+    width: 163px;
+    background: #1CD02E;
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 21px;
+    color: #FFFFFF;
+
+}
+
+.admin-table__wrapper>.btn {
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 10px 8px;
+    background: #1CD02E;
+    border-radius: 8px;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    color: #FFFFFF;
+}
+
+.select-box {
+    position: absolute;
+    top: 40px;
+    width: 200px;
+    height:auto;
+    background: #FFFFFF;
+    border: 1px solid #D5D5D5;
+    border-radius: 8px;
+ 
+  
+}
+.text-flex{
+    display: flex;
+}
+
+.select__label {
+    position: relative;
+}
+
+.adminpanel__table {
+    border: none;
+}
+
+.adminpanel__table tr {
+    padding: 0 30px;
+}
+
+.adminpanel__table th {
+    padding: 10px 10px;
+    text-align: start;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: #002A9D;
+    background: #D1DEFF;
+}
+
+.adminpanel__table td {
+    padding: 15px 10px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: #353535;
+    border-bottom: 1px solid #D5D5D5;
+}
+
+
+
+.selected__box {
+    width: 333px;
+    position: absolute;
+    bottom: 0px;
+}
+
+.button__true {
+    cursor: pointer;
+    background: rgba(28, 208, 46, 0.7);
+    padding: 2px 15px;
+    border-radius: 22px;
+    font-weight: 500;
+    border: none;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFFFFF;
+}
+
+.button__false {
+    cursor: pointer;
+    background: rgba(241, 49, 49, 0.75);
+    padding: 2px 15px;
+    border-radius: 22px;
+    font-weight: 500;
+    border: none;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFFFFF;
+}
+
+
+.action__icon {
+    margin-left: 11px;
+}
+
+.span{
+    height: 29px;
+    cursor: pointer;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFFFFF;
+    padding: 5px 10px;
+  
+    background: #5F8AFF;
+    border-radius: 50px;
+}
+.icons{
+    margin: 5px;
+
+}

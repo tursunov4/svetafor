@@ -1,0 +1,112 @@
+.login__wrapper {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.triangle {
+    width: 70%;
+    border-bottom: 100vh solid rgb(87, 87, 255);
+    border-left: 180px solid transparent;
+    transform: rotateX(180deg);
+}
+
+.logotiv {
+    width: 100px;
+    height: 100px;
+    padding-left: 40px;
+    padding-top: 40px;
+}
+
+.logotip__wrapper {
+    display: flex;
+    align-items: center;
+}
+
+.logotip__title {
+    width: 207px;
+    padding-top: 40px;
+    padding-left: 15px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    color: #353535;
+}
+
+.input__login {
+    width: 514px;
+    height: 51px;
+    left: 205px;
+    top: 427px;
+    border: 1px solid #C5C5C5;
+    border-radius: 8px;
+    outline: none;
+    margin-top: 15px;
+    padding-left: 20px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    color: black;
+
+}
+.login__select{
+    width: 514px;
+    height: 51px;
+    border: 1px solid #C5C5C5;
+    border-radius: 8px;
+    outline: none;
+    margin-top: 15px;
+    padding-left: 20px;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    color: black;
+}
+
+.login__input-wrapper {
+    margin-left: 205px;
+}
+
+.entery {
+    margin-top: 140px;
+}
+
+.login__submit-btn {
+    width: 517px;
+    height: 53px;
+    background: #245FFF;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFFFFF;
+    margin-top: 70px;
+}
+
+.label__input1 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: #000000;
+    margin-top: 50px;
+}
+
+.label__input {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: #000000;
+    margin-top: 32px;
+}

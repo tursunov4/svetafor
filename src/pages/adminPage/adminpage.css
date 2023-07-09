@@ -1,0 +1,66 @@
+.admin__wrapper>h2 {
+    margin: 50px 0 42px 0;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 35px;
+    color: #353535;
+}
+
+.admin-table__wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 15px;
+}
+
+.admin-table__wrapper>h4 {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    color: #353535;
+
+}
+
+.admin-table__wrapper>.btn {
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 10px 8px;
+    background: #1CD02E;
+    border-radius: 8px;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    color: #FFFFFF;
+}
+
+.adminpanel__table {
+    border: none;
+}
+.adminpanel__table  tr{
+    padding: 0 30px;
+} 
+.adminpanel__table th {
+    padding: 10px 10px;
+    text-align: start;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: #002A9D;
+    background: #D1DEFF;
+}
+
+.adminpanel__table td {
+    padding: 15px 10px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: #353535;
+    border-bottom: 1px solid #D5D5D5;
+}
+
+
+
+.action__icon{
+    margin-left: 11px;
+}

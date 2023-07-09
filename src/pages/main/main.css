@@ -1,0 +1,39 @@
+.main-vrapper {
+    width: 100%;
+    height: auto;
+    display: flex;
+}
+
+.main-item {
+    width: 17%;
+    height: 100vh;
+    position: sticky;
+    top: 0;
+    background: #245FFF;
+}
+
+.main-outlet {
+    width: 83%;
+}
+
+.logo {
+    display: flex;
+    border-bottom: 0.5px solid #92AFFF;
+    align-items: center;
+    padding: 20px;
+}
+
+.logo img {
+    width: 65px;
+    height: 65px;
+}
+
+.logo h1 {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 21px;
+    margin-left: 15px;
+    color: #FFFFFF;
+
+}
